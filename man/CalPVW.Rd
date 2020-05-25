@@ -6,7 +6,7 @@ p(x,s)
 v(x,t,s)
 w(x,t,s)
 }
-\argument{
+\arguments{
 \item{x}{scalar of age}
 
 \item{t}{scalar of duration}
